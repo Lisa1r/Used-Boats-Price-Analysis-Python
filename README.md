@@ -9,6 +9,6 @@ The [data set used](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales)
 ## Results
 After carrying out regression and cluster analyses, it was determined that:
 - Boat age is the key factor that influences the price, i.e. the newer the boat, the higher the price
-- Boat length and number of views (online listing) play a minor role in determining a boat's price
+- Boat length and number of views (of online listing) play a minor role in determining a boat's price
 ## Visualizations
 See Tableau Story [here](https://public.tableau.com/app/profile/lisa1238/viz/A6UsedBoatsDealer/UsedBoats-InventoryAnalysisPriceDeterminationFactors).
