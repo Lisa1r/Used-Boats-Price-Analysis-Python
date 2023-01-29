@@ -1,7 +1,9 @@
 # Used-Boats-Price-Analysis-Python
 This is a Python data analysis project carried out within the CareerFoundry Data Analytics Program in January 2023.
 ## Objective
-The project centers upon a European used boats dealer listing their boats for sale on their own website. A comprehensive inventory analysis has been carried out to determine what are the key factors that influence the price of boats. The final objective of the project is to provide the used boats dealer with the necessary information to be able to correctly price their boats, and thus optimize costs and increase profits.
+The project centers upon a European used boats dealer listing their boats for sale on their own website. A comprehensive inventory analysis has been carried out to determine what are the key factors that influence the price of boats.
+
+The final objective of the project is to provide the used boats dealer with the necessary information to be able to correctly price their boats, and thus optimize costs and increase profits.
 ## Data
 The [data set used](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales) was downloaded from Kaggle.
 ## Results
